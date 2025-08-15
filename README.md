@@ -15,6 +15,8 @@
 - 🌐 [Postman API Testing Project](https://github.com/MaxCS23/DummyJSON-API-Test)  
   *Automated API tests using Postman with collections and CI integration.*
 
+- 🦗 [Locust API Performance Test](https://github.com/MaxCS23/LocustApiTest)  
+  *LocustApiTest is a performance testing project for a sample Flask API.*
 ---
 
 ## 📫 Contact
