@@ -28,7 +28,7 @@
 ---
 
 ## 📌 Skills
-- **Languages**: Python, C#, JavaScript
+- **Languages**: Python, C#
 - **Tools**: Selenium, Postman, GitHub Actions, NUnit, Pytest, Git
 - **Testing**: Functional, API, E2E, UI Automation, Data-driven Testing
 
